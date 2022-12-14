@@ -15,8 +15,8 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning MLops
+- 🔭 I work as a freelance Data Scientist and analyst, providing data-driven solutions to real-world business challenges.
+- 🌱 I’m currently learning MLops.
 - ⚡ In my free time I solve problems on stackoverflow and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hareeharan%20ELangovan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hareeharan-elangovan/)
 
@@ -25,9 +25,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<img src="https://www.nicepng.com/png/full/231-2316836_striim-for-azure-sql-database-sql-azure.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
