@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I work as a freelance Data Scientist and analyst, providing data-driven solutions to real-world business challenges.
 - 🌱 I’m currently learning MLops.
