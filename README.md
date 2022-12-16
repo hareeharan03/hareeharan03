@@ -50,8 +50,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### 🔥 &nbsp; My Stats :
 <p align="center">
   
-[<img src="http://github-readme-streak-stats.herokuapp.com?user=hareeharan03&theme=vision-friendly-dark&border_radius=4.9" alt="My streaks" width="50%"/>](https://git.io/streak-stats) 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareeharan03&layout=compact&theme=vision-friendly-dark&border_radius=4.9" width="42%"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img src="http://github-readme-streak-stats.herokuapp.com?user=hareeharan03&theme=vision-friendly-dark&border_radius=4.9" alt="My streaks" width="54.2%"/>](https://git.io/streak-stats) 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareeharan03&layout=compact&theme=vision-friendly-dark&border_radius=4.9" width="45.3%"/>](https://github.com/anuraghazra/github-readme-stats)
 
   
 </p>
