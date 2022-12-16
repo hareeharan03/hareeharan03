@@ -1,8 +1,8 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there, I'm Hareeharan Elangovan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"><img src="https://im2.ezgif.com/tmp/ezgif-2-16322799dd.gif" width="900" height="300"  /></p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/hareeharan-elangovan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 </p>
@@ -19,7 +19,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🔭 I work as a freelance Data Scientist and analyst, providing data-driven solutions to real-world business challenges.
 - 🌱 I’m currently learning MLops.
 - ⚡ In my free time I solve problems on stackoverflow and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hareeharan%20ELangovan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hareeharan-elangovan/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hareeharan%20Elangovan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hareeharan-elangovan/)
 
 ---
 
