@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=25&pause=1000&color=31B13CFF&width=435&lines=Hey+there%2C+I'm+Hareeharan+Elangovan"></h1>
-<p align="center"><img src="https://im2.ezgif.com/tmp/ezgif-2-16322799dd.gif" width="900" height="300"  /></p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/hareeharan-elangovan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
